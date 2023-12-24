@@ -1,9 +1,9 @@
-##College Management System
+# College Management System
 Overview
 
-###The College Management System is a web-based application developed using Django, a high-level Python web framework, and SQL for database management. This system is designed to streamline various administrative and academic processes within a college or educational institution.
+### The College Management System is a web-based application developed using Django, a high-level Python web framework, and SQL for database management. This system is designed to streamline various administrative and academic processes within a college or educational institution.
 
-###Features
+### Features
 User Authentication: Secure login and registration system for administrators, faculty, and students.
 Dashboard: Personalized dashboards for administrators, faculty, and students with relevant information.
 Student Management: Manage student records, including enrollment, attendance, and academic performance.
